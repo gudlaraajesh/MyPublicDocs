@@ -1,2 +1,1 @@
-# Myapp
-My sample repo
+My Public Repo for Docs sharing.
